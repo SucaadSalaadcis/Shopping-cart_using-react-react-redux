@@ -4,6 +4,8 @@ import Product from './Product'
 import {useSelector} from 'react-redux'
 import { Link } from 'react-router-dom'
 
+/*  */
+
 function Home() {
     // we will get all the items which are in the cart
     // cart.cart means:
